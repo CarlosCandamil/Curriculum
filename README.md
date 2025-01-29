@@ -2,4 +2,4 @@
 layout: default
 title: Resume
 ---
-![Resume](Resume.png)
+![Resume](Carlos_Candamil_BA_CV.pdf)
